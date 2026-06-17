@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Binary {
+public class Binary{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -19,7 +19,7 @@ public class Binary {
     static int Binary_Search(int n,int a[],int k){
         int l=0;
         int r=n-1;
-        while (l<=r) {
+        while(l<=r){
             int mid=(l+r)/2;
             if(a[mid]==k){
                 return mid;
