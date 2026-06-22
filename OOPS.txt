@@ -1,0 +1,27 @@
+Philer of oops
+1.inheritance.
+2.polymorphisym.
+3.abstraction.
+4.Encapsulation.
+class
+ class is a blueprint or template used to create objects.
+ objects is the instance of the class that are created inside of the classes.
+stages of object.
+1.state-collection of things
+   A state of a object represent its current data or values stored in variables(field).
+2.behaviour-what we do
+  The behaviour of the object represents the actions it can perform the throw methods.
+3.identy-Unique
+    The identy of the object is uniquely differ from other objects even if the have the same state behaviour.
+Constructor
+ the constructor is a special method that is automatically call when the object is created.
+types
+ 1.default constructor
+ 2.parameter constructor.
+purpose
+ 1.initialize object data.
+ 2.assign default variable to instance variable.
+rules
+1.the constructor Name must be same as the class name.
+2.it does not have a return type not even void.
+3.it is called automatically when an object is created using new.
